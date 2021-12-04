@@ -1,5 +1,5 @@
 import { useEffect } from "react"
-import AOS from 'aos';
+import AOS from 'aos'
 import Navbar from "../components/organisms/Navbar";
 import Header from "../components/organisms/Header";
 import Brands from "../components/organisms/Brands";
