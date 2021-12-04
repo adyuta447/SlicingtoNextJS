@@ -5,6 +5,7 @@ import Head from 'next/head'
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
+      <title>GivMoney</title>
        {/**Jquery**/} 
       <script async src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
